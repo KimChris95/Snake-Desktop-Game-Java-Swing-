@@ -20,3 +20,7 @@ A classic Snake implementation built with Java Swing.
 - JDBC
 
 
+## Run locally
+
+javac -cp "lib/*" -d bin src/com/kimplecker/snake/*.java
+java -cp "bin;lib/*" com.kimplecker.snake.Main
