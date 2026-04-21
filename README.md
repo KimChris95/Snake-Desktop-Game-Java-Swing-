@@ -22,5 +22,5 @@ A classic Snake implementation built with Java Swing.
 
 ## Run locally
 
-javac -cp "lib/*" -d bin src/com/kimplecker/snake/*.java
-java -cp "bin;lib/*" com.kimplecker.snake.Main
+- javac -cp "lib/*" -d bin src/com/kimplecker/snake/*.java
+- java -cp "bin;lib/*" com.kimplecker.snake.Main
