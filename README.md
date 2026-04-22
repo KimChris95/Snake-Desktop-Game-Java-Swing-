@@ -51,14 +51,14 @@ If not, install Java first (see next step).
 
 ### 2. Install Java (if missing)
 
-Download and install **OpenJDK 21 (LTS)** from:
+Download and install **OpenJDK 25 ** from:
 
 https://adoptium.net
 
 Recommended settings during installation:
 
 ✔ Select **Windows x64**  
-✔ Select **JDK 21 (LTS)**  
+✔ Select **JDK 25**  
 ✔ Enable **Add to PATH**
 
 After installation, restart your terminal and verify again:
